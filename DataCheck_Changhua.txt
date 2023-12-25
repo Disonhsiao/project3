@@ -1,0 +1,7 @@
+"FileName","ChineseName","EnglishName","PosHeight_m"
+"C0G650","Yuanlin","Yuanlin","34"
+"C0G780","秀水","Xiushui","27"
+"C0G730","二林","Erlin","27"
+"C0G840","北斗","Beidou","32"
+"C0G880","二水","Ershui","92"
+"C0G640","鹿港","Lukang","17"
